@@ -54,7 +54,7 @@ postFeed:
   hoverEffect: shadow
   styles:
     self:
-      justifyContent: center
+      justifyContent: flex-start
       padding:
         - pl-20
 ---
