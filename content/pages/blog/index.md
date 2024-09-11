@@ -51,7 +51,7 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-  hoverEffect: shadow-plus-move-up
+  hoverEffect: shadow
   styles:
     self:
       justifyContent: flex-end
