@@ -49,7 +49,7 @@ postFeed:
   showAuthor: true
   actions: []
   elementId: null
-  variant: big-list
+  variant: small-list
   colors: bg-light-fg-dark
   hoverEffect: shadow
   styles:
