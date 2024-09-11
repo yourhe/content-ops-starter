@@ -55,4 +55,6 @@ postFeed:
   styles:
     self:
       justifyContent: flex-end
+      padding:
+        - pl-20
 ---
