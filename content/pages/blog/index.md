@@ -52,4 +52,7 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
+  styles:
+    self:
+      justifyContent: center
 ---
