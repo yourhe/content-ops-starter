@@ -54,5 +54,5 @@ postFeed:
   hoverEffect: move-up
   styles:
     self:
-      justifyContent: flex-start
+      justifyContent: flex-end
 ---
